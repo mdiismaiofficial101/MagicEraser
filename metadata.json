@@ -1,0 +1,6 @@
+{
+  "name": "WatermarkRemover AI",
+  "description": "High-performance web-based watermark remover for images and videos with brush masking, client-side OpenCV inpainting, and Gemini AI restoration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
